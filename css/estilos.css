@@ -4,6 +4,12 @@ body{
     color: blue;
 }
 
+#cabecera{
+    background: #880;
+    color: white;
+    font-weight: bold;
+    
+}
 #container{
     width: auto;
     padding: 1em;
